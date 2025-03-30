@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-      Hallolick on the Vite and React logos to learn more
+      Hello world!
     </>
   )
 }
